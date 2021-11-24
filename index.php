@@ -6,3 +6,4 @@
     // Create feature_branch
     // Create release 0.1.0 branch (release/0.1.0)
     // Some changes in release 0.1.0 branch
+    // Create hotfix bratch
